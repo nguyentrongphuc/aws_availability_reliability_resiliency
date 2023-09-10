@@ -1,0 +1,23 @@
+Reduce cost estimation for the following AWS services
+    EC2: 
+        - t2.2xlarge -> t2.large
+        - m4.xlarge -> m4.large
+
+    Elastic Load Balancing
+
+Increase budget with following aws services changes
+    EC2:
+        - increass to 4 x m4.4xlarge
+        - increase to 8 x f1.2xlarge
+    S3
+
+    Elastic Load Balancing
+
+    CloudFront
+
+    RDS
+        - db.m4.4xlarge
+        - Provisioned IOPS SSD 
+    
+    CloudWatch
+    

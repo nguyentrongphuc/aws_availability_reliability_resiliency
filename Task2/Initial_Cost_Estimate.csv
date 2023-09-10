@@ -1,0 +1,39 @@
+﻿Service Type,Components,Region,Component Price,Service Price
+Amazon EC2 Service (US East (N. Virginia)),,,,$4778.53
+,Compute:,US East (N. Virginia),,$4778.52
+,Elastic IPs:,US East (N. Virginia),,$0.01
+Amazon S3 Service (US East (N. Virginia)),,,,$117.76
+,S3 Standard Storage:,US East (N. Virginia),,$117.76
+Amazon Route 53 Service,,,,$368
+,Hosted Zones:,Global,,$2
+,Resolver:,Global,,$366
+Amazon CloudFront Service,,,,$1376.43
+,Custom SSL Certificates:,Global,,$1200
+,Data Transfer Out:,Global,,$174.08
+,Data Transfer Out to Origin:,Global,,$0.04
+,Requests:,Global,,$2.31
+Amazon RDS Service (US East (N. Virginia)),,,,$8613.92
+,DB instances:,US East (N. Virginia),,$7388.82
+,Storage:,US East (N. Virginia),,$1177.6
+,Backups:,US East (N. Virginia),,$47.5
+Amazon Elastic Load Balancing (US East (N. Virginia)),,,,$89.16
+,Application LBs:,US East (N. Virginia),,$89.16
+Amazon DynamoDB Service (US East (N. Virginia)),,,,$274.75
+,On-demand Capacity:,US East (N. Virginia),,$0
+,Provisioned Capacity:,US East (N. Virginia),,$0
+,Indexed Data Storage:,US East (N. Virginia),,$274.75
+,DynamoDB Streams:,US East (N. Virginia),,$0
+,On-demand backup:,US East (N. Virginia),,$0
+,Continuous backup (PITR):,US East (N. Virginia),,$0
+,Restoring a table:,US East (N. Virginia),,$0
+Amazon ElastiCache Service (US East (N. Virginia)),,,,$1822.68
+,On-Demand Cache Nodes:,US East (N. Virginia),,$1822.68
+Amazon CloudWatch Service (US East (N. Virginia)),,,,$16.36
+,API Requests:,US East (N. Virginia),,$16.36
+,Standard Alarms:,US East (N. Virginia),,$0
+Amazon VPC Service (US East (N. Virginia)),,,,$139.08
+,VPN Connection:,US East (N. Virginia),,$73.2
+,NAT Gateway,US East (N. Virginia),,$65.88
+AWS Support (Business),,,,$1531.77
+,Support for all AWS services:,,,$1531.77
+,,Total Monthly Payment:,,$19128.44
